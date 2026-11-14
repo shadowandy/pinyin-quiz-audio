@@ -1,16 +1,13 @@
 # pinyin-quiz-audio
 
-Voice notes for the 拼音小测 (pinyin quiz) in the `primary-school-language-teacher` skill: one clip per 例句 in its question bank, ready to send in WhatsApp.
+Audio clips for the 拼音小测 (pinyin quiz) in the `primary-school-language-teacher` skill: one clip per 例句 in its question bank, ready to send in WhatsApp.
 
 **This is not MOE syllabus.** The sentences are classroom practice written for the quiz, and the voice is machine-generated.
 
 ## Layout
 
-Each 例句 is spoken in two formats, `<词语>-<n>` naming the word's n-th 例句 (1-3, in the bank's order):
-
-- `<词语>-<n>.mp3` — MP3, mono, 24 kHz: the file to send in WhatsApp as an audio message.
-- `<词语>-<n>.ogg` — the same clip as OGG/Opus, mono, 48 kHz, for other channels that take voice notes.
-- `manifest.json` — `词语 → [{例句, ogg, mp3}]`, each 例句 exactly as the bank writes it, 【**…**】 marks included. Find the clip for a question by matching its sentence.
+- `<词语>-<n>.mp3` — the word's n-th 例句 (1-3, in the bank's order), spoken. MP3, mono, 24 kHz: the file to send in WhatsApp as an audio message.
+- `manifest.json` — `词语 → [{例句, mp3}]`, each 例句 exactly as the bank writes it, 【**…**】 marks included. Find the clip for a question by matching its sentence.
 - `review.md` — the clips whose word has a 多音字 that the quiz uses as a distractor. The voice reads characters, not 拼音, so check these by ear.
 
 ## Using it
