@@ -6,8 +6,11 @@ Voice notes for the 拼音小测 (pinyin quiz) in the `primary-school-language-t
 
 ## Layout
 
-- `<词语>-<n>.ogg` — the word's n-th 例句 (1-3, in the bank's order), spoken. OGG/Opus, mono, 48 kHz: WhatsApp plays it as a voice note when sent with `ptt: true` and `mimetype: 'audio/ogg; codecs=opus'`.
-- `manifest.json` — `词语 → [{例句, file}]`, each 例句 exactly as the bank writes it, 【**…**】 marks included. Find the clip for a question by matching its sentence.
+Each 例句 is spoken in two formats, `<词语>-<n>` naming the word's n-th 例句 (1-3, in the bank's order):
+
+- `<词语>-<n>.ogg` — OGG/Opus, mono, 48 kHz: WhatsApp plays it as a voice note when sent with `ptt: true` and `mimetype: 'audio/ogg; codecs=opus'`.
+- `<词语>-<n>.mp3` — the same clip as plain MP3, for a channel or player that takes ordinary audio files.
+- `manifest.json` — `词语 → [{例句, ogg, mp3}]`, each 例句 exactly as the bank writes it, 【**…**】 marks included. Find the clip for a question by matching its sentence.
 - `review.md` — the clips whose word has a 多音字 that the quiz uses as a distractor. The voice reads characters, not 拼音, so check these by ear.
 
 ## Using it

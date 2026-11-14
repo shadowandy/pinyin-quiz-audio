@@ -2,54 +2,54 @@
 
 edge-tts reads characters, not 拼音: confirm each clip says the 拼音 given.
 
-- 不仅 bù jǐn (仅): 不仅-1.ogg, 不仅-2.ogg, 不仅-3.ogg
-- 不约而同 bù yuē ér tóng (约、同): 不约而同-1.ogg, 不约而同-2.ogg, 不约而同-3.ogg
-- 乐于助人 lè yú zhù rén (乐): 乐于助人-1.ogg, 乐于助人-2.ogg, 乐于助人-3.ogg
-- 了解 liǎo jiě (了、解): 了解-1.ogg, 了解-2.ogg, 了解-3.ogg
-- 任务 rèn wù (任): 任务-1.ogg, 任务-2.ogg, 任务-3.ogg
-- 休息 xiū xi (息): 休息-1.ogg, 休息-2.ogg, 休息-3.ogg
-- 伟大 wěi dà (大): 伟大-1.ogg, 伟大-2.ogg, 伟大-3.ogg
-- 佩服 pèi fú (服): 佩服-1.ogg, 佩服-2.ogg, 佩服-3.ogg
-- 使劲 shǐ jìn (劲): 使劲-1.ogg, 使劲-2.ogg, 使劲-3.ogg
-- 便宜 pián yi (便、宜): 便宜-1.ogg, 便宜-2.ogg, 便宜-3.ogg
-- 冠军 guàn jūn (冠): 冠军-1.ogg, 冠军-2.ogg, 冠军-3.ogg
-- 分享 fēn xiǎng (分): 分享-1.ogg, 分享-2.ogg, 分享-3.ogg
-- 创意 chuàng yì (创): 创意-1.ogg, 创意-2.ogg, 创意-3.ogg
-- 参加 cān jiā (参): 参加-1.ogg, 参加-2.ogg, 参加-3.ogg
-- 反正 fǎn zhèng (反、正): 反正-1.ogg, 反正-2.ogg, 反正-3.ogg
-- 同学 tóng xué (同): 同学-1.ogg, 同学-2.ogg, 同学-3.ogg
-- 吩咐 fēn fù (咐): 吩咐-1.ogg, 吩咐-2.ogg, 吩咐-3.ogg
-- 和谐 hé xié (和): 和谐-1.ogg, 和谐-2.ogg, 和谐-3.ogg
-- 喜欢 xǐ huan (欢): 喜欢-1.ogg, 喜欢-2.ogg, 喜欢-3.ogg
-- 坚强 jiān qiáng (强): 坚强-1.ogg, 坚强-2.ogg, 坚强-3.ogg
-- 学校 xué xiào (校): 学校-1.ogg, 学校-2.ogg, 学校-3.ogg
-- 尽管 jǐn guǎn (尽): 尽管-1.ogg, 尽管-2.ogg, 尽管-3.ogg
-- 弟弟 dì di (弟、弟): 弟弟-1.ogg, 弟弟-2.ogg, 弟弟-3.ogg
-- 态度 tài dù (度): 态度-1.ogg, 态度-2.ogg, 态度-3.ogg
-- 恶劣 è liè (恶): 恶劣-1.ogg, 恶劣-2.ogg, 恶劣-3.ogg
-- 批评 pī píng (批): 批评-1.ogg, 批评-2.ogg, 批评-3.ogg
-- 提醒 tí xǐng (提): 提醒-1.ogg, 提醒-2.ogg, 提醒-3.ogg
-- 无精打采 wú jīng dǎ cǎi (采): 无精打采-1.ogg, 无精打采-2.ogg, 无精打采-3.ogg
-- 时间 shí jiān (间): 时间-1.ogg, 时间-2.ogg, 时间-3.ogg
-- 机会 jī huì (会): 机会-1.ogg, 机会-2.ogg, 机会-3.ogg
-- 检查 jiǎn chá (查): 检查-1.ogg, 检查-2.ogg, 检查-3.ogg
-- 榜样 bǎng yàng (样): 榜样-1.ogg, 榜样-2.ogg, 榜样-3.ogg
-- 模仿 mó fǎng (模): 模仿-1.ogg, 模仿-2.ogg, 模仿-3.ogg
-- 熟悉 shú xī (熟): 熟悉-1.ogg, 熟悉-2.ogg, 熟悉-3.ogg
-- 精神 jīng shén (神): 精神-1.ogg, 精神-2.ogg, 精神-3.ogg
-- 糊涂 hú tu (涂): 糊涂-1.ogg, 糊涂-2.ogg, 糊涂-3.ogg
-- 结果 jié guǒ (结): 结果-1.ogg, 结果-2.ogg, 结果-3.ogg
-- 要求 yāo qiú (要): 要求-1.ogg, 要求-2.ogg, 要求-3.ogg
-- 解决 jiě jué (解): 解决-1.ogg, 解决-2.ogg, 解决-3.ogg
-- 解释 jiě shì (解): 解释-1.ogg, 解释-2.ogg, 解释-3.ogg
-- 计划 jì huà (划): 计划-1.ogg, 计划-2.ogg, 计划-3.ogg
-- 质量 zhì liàng (量): 质量-1.ogg, 质量-2.ogg, 质量-3.ogg
-- 跑步 pǎo bù (跑): 跑步-1.ogg, 跑步-2.ogg, 跑步-3.ogg
-- 选择 xuǎn zé (择): 选择-1.ogg, 选择-2.ogg, 选择-3.ogg
-- 道歉 dào qiàn (道): 道歉-1.ogg, 道歉-2.ogg, 道歉-3.ogg
-- 闷闷不乐 mèn mèn bù lè (闷、闷、乐): 闷闷不乐-1.ogg, 闷闷不乐-2.ogg, 闷闷不乐-3.ogg
-- 除了 chú le (了): 除了-1.ogg, 除了-2.ogg, 除了-3.ogg
-- 顽强 wán qiáng (强): 顽强-1.ogg, 顽强-2.ogg, 顽强-3.ogg
-- 骄傲 jiāo ào (傲): 骄傲-1.ogg, 骄傲-2.ogg, 骄傲-3.ogg
-- 鲜艳 xiān yàn (鲜): 鲜艳-1.ogg, 鲜艳-2.ogg, 鲜艳-3.ogg
-- 麻烦 má fan (烦): 麻烦-1.ogg, 麻烦-2.ogg, 麻烦-3.ogg
+- 不仅 bù jǐn (仅): 不仅-1/2/3 (.ogg, .mp3)
+- 不约而同 bù yuē ér tóng (约、同): 不约而同-1/2/3 (.ogg, .mp3)
+- 乐于助人 lè yú zhù rén (乐): 乐于助人-1/2/3 (.ogg, .mp3)
+- 了解 liǎo jiě (了、解): 了解-1/2/3 (.ogg, .mp3)
+- 任务 rèn wù (任): 任务-1/2/3 (.ogg, .mp3)
+- 休息 xiū xi (息): 休息-1/2/3 (.ogg, .mp3)
+- 伟大 wěi dà (大): 伟大-1/2/3 (.ogg, .mp3)
+- 佩服 pèi fú (服): 佩服-1/2/3 (.ogg, .mp3)
+- 使劲 shǐ jìn (劲): 使劲-1/2/3 (.ogg, .mp3)
+- 便宜 pián yi (便、宜): 便宜-1/2/3 (.ogg, .mp3)
+- 冠军 guàn jūn (冠): 冠军-1/2/3 (.ogg, .mp3)
+- 分享 fēn xiǎng (分): 分享-1/2/3 (.ogg, .mp3)
+- 创意 chuàng yì (创): 创意-1/2/3 (.ogg, .mp3)
+- 参加 cān jiā (参): 参加-1/2/3 (.ogg, .mp3)
+- 反正 fǎn zhèng (反、正): 反正-1/2/3 (.ogg, .mp3)
+- 同学 tóng xué (同): 同学-1/2/3 (.ogg, .mp3)
+- 吩咐 fēn fù (咐): 吩咐-1/2/3 (.ogg, .mp3)
+- 和谐 hé xié (和): 和谐-1/2/3 (.ogg, .mp3)
+- 喜欢 xǐ huan (欢): 喜欢-1/2/3 (.ogg, .mp3)
+- 坚强 jiān qiáng (强): 坚强-1/2/3 (.ogg, .mp3)
+- 学校 xué xiào (校): 学校-1/2/3 (.ogg, .mp3)
+- 尽管 jǐn guǎn (尽): 尽管-1/2/3 (.ogg, .mp3)
+- 弟弟 dì di (弟、弟): 弟弟-1/2/3 (.ogg, .mp3)
+- 态度 tài dù (度): 态度-1/2/3 (.ogg, .mp3)
+- 恶劣 è liè (恶): 恶劣-1/2/3 (.ogg, .mp3)
+- 批评 pī píng (批): 批评-1/2/3 (.ogg, .mp3)
+- 提醒 tí xǐng (提): 提醒-1/2/3 (.ogg, .mp3)
+- 无精打采 wú jīng dǎ cǎi (采): 无精打采-1/2/3 (.ogg, .mp3)
+- 时间 shí jiān (间): 时间-1/2/3 (.ogg, .mp3)
+- 机会 jī huì (会): 机会-1/2/3 (.ogg, .mp3)
+- 检查 jiǎn chá (查): 检查-1/2/3 (.ogg, .mp3)
+- 榜样 bǎng yàng (样): 榜样-1/2/3 (.ogg, .mp3)
+- 模仿 mó fǎng (模): 模仿-1/2/3 (.ogg, .mp3)
+- 熟悉 shú xī (熟): 熟悉-1/2/3 (.ogg, .mp3)
+- 精神 jīng shén (神): 精神-1/2/3 (.ogg, .mp3)
+- 糊涂 hú tu (涂): 糊涂-1/2/3 (.ogg, .mp3)
+- 结果 jié guǒ (结): 结果-1/2/3 (.ogg, .mp3)
+- 要求 yāo qiú (要): 要求-1/2/3 (.ogg, .mp3)
+- 解决 jiě jué (解): 解决-1/2/3 (.ogg, .mp3)
+- 解释 jiě shì (解): 解释-1/2/3 (.ogg, .mp3)
+- 计划 jì huà (划): 计划-1/2/3 (.ogg, .mp3)
+- 质量 zhì liàng (量): 质量-1/2/3 (.ogg, .mp3)
+- 跑步 pǎo bù (跑): 跑步-1/2/3 (.ogg, .mp3)
+- 选择 xuǎn zé (择): 选择-1/2/3 (.ogg, .mp3)
+- 道歉 dào qiàn (道): 道歉-1/2/3 (.ogg, .mp3)
+- 闷闷不乐 mèn mèn bù lè (闷、闷、乐): 闷闷不乐-1/2/3 (.ogg, .mp3)
+- 除了 chú le (了): 除了-1/2/3 (.ogg, .mp3)
+- 顽强 wán qiáng (强): 顽强-1/2/3 (.ogg, .mp3)
+- 骄傲 jiāo ào (傲): 骄傲-1/2/3 (.ogg, .mp3)
+- 鲜艳 xiān yàn (鲜): 鲜艳-1/2/3 (.ogg, .mp3)
+- 麻烦 má fan (烦): 麻烦-1/2/3 (.ogg, .mp3)
