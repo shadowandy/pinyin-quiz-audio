@@ -1,6 +1,6 @@
 # pinyin-quiz-audio
 
-Audio clips for the 拼音小测 (pinyin quiz) in the `primary-school-language-teacher` skill: one clip per 例句 in its question bank, ready to send in WhatsApp.
+Audio clips for the 拼音小测 (pinyin quiz) in the `primary-school-chinese-teacher` skill: one clip per 例句 in its question bank, ready to send in WhatsApp.
 
 **This is not MOE syllabus.** The sentences are classroom practice written for the quiz, and the voice is machine-generated.
 
