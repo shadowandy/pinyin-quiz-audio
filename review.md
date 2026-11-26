@@ -60,4 +60,12 @@ Also lists the answer clip for each word read alone (which can pick its other re
 These question clips were voiced in separate parts because a word boundary straddled neighbouring characters:
 
 - 回忆-3-q.mp3: 回忆 in 「毕业营的那三天，是我小学生活中最难忘的回忆。」
+- 回忆-1-q.mp3: 回忆 in 「翻开小学六年的照片，许多快乐的回忆一下子涌上心头。」
+- 打扰-2-q.mp3: 打扰 in 「打扰一下，请问去樟宜机场要搭哪一条地铁线？」
+- 帮助-2-q.mp3: 帮助 in 「同学有不懂的地方，班长总是很乐意帮助大家。」
+- 选择-3-q.mp3: 选择 in 「遇到困难时，他选择了坚持，而不是放弃。」
+- 选择-1-q.mp3: 选择 in 「升上中学时，姐姐选择了自己最喜欢的华乐团作为课外活动。」
+- 销售-2-q.mp3: 销售 in 「这款新手机一推出就销售一空。」
 - 故事-1-q.mp3: 故事 in 「每天晚上睡觉前，妈妈都会给我讲一个故事。」
+- 精神-2-q.mp3: 精神 in 「运动会上，同学们个个精神饱满，准备比赛。」
+- 检查-2-q.mp3: 检查 in 「出门前，爸爸总会检查家里的门窗有没有关好。」
